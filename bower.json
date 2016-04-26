@@ -1,0 +1,19 @@
+{
+  "name": "jQuery QA Track Downloads",
+  "description": "A jQuery plugin that triggers Google Analytics track event when a user downloads file attachements",
+  "version": "1.0.0",
+  "keywords": [
+    "js",
+    "jquery",
+    "googleanalytics",
+  ],
+  "main": [
+    "jquery-ga-track-downloads.js",
+  ],
+  "ignore": [
+    "/.*",
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  }
+}
