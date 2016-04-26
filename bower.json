@@ -5,13 +5,13 @@
   "keywords": [
     "js",
     "jquery",
-    "googleanalytics",
+    "googleanalytics"
   ],
   "main": [
-    "jquery-ga-track-downloads.js",
+    "jquery-ga-track-downloads.js"
   ],
   "ignore": [
-    "/.*",
+    "/.*"
   ],
   "dependencies": {
     "jquery": ">= 1.9.1"
