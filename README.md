@@ -9,7 +9,9 @@ A jQuery plugin that triggers Google Analytics track event when a user download
 
 ## Installation
 
-Include `jquery-ga-track-download.js` or `jquery-ga-track-download.min.js` in your HTML file after your Google Analytics code.
+Install using Bower: `bower install jquery-ga-track-downloads`
+
+Include `bower_components/jquery-ga-track-downloads.js` in your HTML file after your Google Analytics code.
 
 Example:
 
@@ -21,7 +23,7 @@ Example:
     //--><!]]>
 </script>
 
-<script src="jquery-ga-track-downloads.js"></script>
+<script src="bower_components/jquery-ga-track-downloads.js"></script>
 ```
 
 ## Acknowledgments 
