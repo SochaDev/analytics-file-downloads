@@ -1,14 +1,18 @@
 {
-  "name": "jquery-ga-track-downloads",
-  "description": "A jQuery plugin that triggers Google Analytics track event when a user downloads file attachements",
+  "name": "analytics-track-downloads",
+  "description": "Triggers Google Analytics track event when a user clicks a file download link",
   "version": "1.0.0",
+  "authors": [
+    "Matt West <matt@mattdanger.net",
+  ],
+  "license": "MIT",
   "keywords": [
     "js",
     "jquery",
     "googleanalytics"
   ],
   "main": [
-    "jquery-ga-track-downloads.js"
+    "analytics-track-downloads.js"
   ],
   "ignore": [
     "/.*"

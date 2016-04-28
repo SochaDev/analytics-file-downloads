@@ -1,6 +1,6 @@
-# jquery-ga-track-downloads
+# analytics-track-downloads
 
-A jQuery plugin that triggers Google Analytics track event when a user downloads file attachements
+Triggers Google Analytics track event when a user clicks a file download link
 
 ## Requirements
 
@@ -9,9 +9,9 @@ A jQuery plugin that triggers Google Analytics track event when a user download
 
 ## Installation
 
-Install using Bower: `bower install jquery-ga-track-downloads`
+Install using Bower: `bower install analytics-track-downloads`
 
-Include `bower_components/jquery-ga-track-downloads.js` in your HTML file after your Google Analytics code.
+Include `bower_components/analytics-track-downloads.js` in your HTML file after your Google Analytics code.
 
 Example:
 
@@ -23,8 +23,12 @@ Example:
     //--><!]]>
 </script>
 
-<script src="bower_components/jquery-ga-track-downloads.js"></script>
+<script src="bower_components/analytics-track-downloads/analytics-track-downloads.js"></script>
 ```
+
+## Maintainers
+
+* Matt West <west.matt@sochadev.com>
 
 ## Acknowledgments 
 
