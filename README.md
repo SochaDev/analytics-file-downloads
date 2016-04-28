@@ -1,4 +1,4 @@
-# analytics-track-downloads
+# analytics-file-downloads
 
 Triggers Google Analytics track event when a user clicks a file download link
 
@@ -9,9 +9,9 @@ Triggers Google Analytics track event when a user clicks a file download link
 
 ## Installation
 
-Install using Bower: `bower install analytics-track-downloads`
+Install using Bower: `bower install analytics-file-downloads`
 
-Include `bower_components/analytics-track-downloads.js` in your HTML file after your Google Analytics code.
+Include `bower_components/analytics-file-downloads.js` in your HTML file after your Google Analytics code.
 
 Example:
 
@@ -23,7 +23,7 @@ Example:
     //--><!]]>
 </script>
 
-<script src="bower_components/analytics-track-downloads/analytics-track-downloads.js"></script>
+<script src="bower_components/analytics-file-downloads/analytics-file-downloads.js"></script>
 ```
 
 ## Maintainers

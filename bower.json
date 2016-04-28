@@ -1,5 +1,5 @@
 {
-  "name": "analytics-track-downloads",
+  "name": "analytics-file-downloads",
   "description": "Triggers Google Analytics track event when a user clicks a file download link",
   "version": "1.0.0",
   "authors": [
@@ -12,7 +12,7 @@
     "googleanalytics"
   ],
   "main": [
-    "analytics-track-downloads.js"
+    "analytics-file-downloads.js"
   ],
   "ignore": [
     "/.*"
