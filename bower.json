@@ -1,7 +1,7 @@
 {
   "name": "analytics-file-downloads",
   "description": "Triggers Google Analytics track event when a user clicks a file download link",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "authors": [
     "Matt West <matt@mattdanger.net"
   ],
